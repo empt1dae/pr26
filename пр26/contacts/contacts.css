@@ -253,7 +253,7 @@ h2 {
     margin-top: 110px; 
 }
 
-
+/* ФУТЕР */
 .footer {
     height: 300px;
     display: flex;
@@ -303,11 +303,7 @@ h2 {
     
 }
 
-.border {
-    border: #8dadec solid 2px;
-    height: 310px;
-    width: 230px;
-}
+
 
 .contact-info {
     font-size: 24px;
@@ -334,25 +330,24 @@ h2 {
 }
 
 .telegram-icon {
-    background-image: url('/footer/tg.svg'); /* Замените на путь к иконке Telegram */
+    background-image: url('/footer/tg.svg'); 
 }
 
 .vk-icon {
-    background-image: url('/footer/vk.svg'); /* Замените на путь к иконке ВКонтакте */
+    background-image: url('/footer/vk.svg'); 
 }
 
 .another-icon {
-    background-image: url('/footer/dzen.svg'); /* Замените на путь к другой иконке */
+    background-image: url('/footer/dzen.svg'); 
 }
 
 
 
 
 .footer-links ul {
-    border: #8dadec solid 2px;
+   
     list-style: none;
-    height: 310px;
-    width: 230px;
+
     margin: 0;
 }
 

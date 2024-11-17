@@ -666,6 +666,7 @@ p {
 }
 
 .email {
+	box-sizing: border-box;
 	width: 532.18px;
 	height: 57.83px;
 	border: 5px solid rgb(142, 172, 205);
